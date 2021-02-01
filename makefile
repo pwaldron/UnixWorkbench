@@ -1,5 +1,5 @@
 all: README.md
-	echo "# File count guessing game" > README.md
+	echo "# Unix Workbench" > README.md
 	echo >> README.md
 	echo -n "**make** was run on: " >> README.md
 	date >> README.md
